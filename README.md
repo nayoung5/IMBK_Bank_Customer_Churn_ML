@@ -18,6 +18,7 @@
   3) 결측값 없음 : df.isnull().sum() 전체 0 확인 → 별도 imputation 불필요
 6. EDA 및 해석
 <img width="1389" height="495" alt="image" src="https://github.com/user-attachments/assets/75eb494a-d745-4314-a784-c10ec092db88" />
+
   막대그래프: Germany의 이탈률이 약 32%로 France(16%), Spain(17%)에 비해 약 2배 높음
   → 독일 고객 대상 별도 리텐션 전략이 필요함을 시사
   꺾은선그래프: 41-50세 구간에서 이탈률이 급격히 상승(~45%)하며 최고점을 형성
