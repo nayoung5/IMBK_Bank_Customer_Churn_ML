@@ -6,7 +6,7 @@
 ### 2. 기간
 2026년 4월 10일
 
-### 3. 주요 기술 스택 (Libraries)
+### 3. 기술스택: 라이브러리 명시
 - Data Manipulation: Pandas, NumPy
 - Machine Learning: Scikit-learn (sklearn)
 - Boosting Algorithms: LightGBM (LGBM)
