@@ -32,6 +32,9 @@
 → 중장년층(40대) 고객이 이탈 리스크가 가장 높으므로, 이 연령대 맞춤형 상품·혜택 설계 필요
 
 ### 7. AutoML – Hyperparameter Tuning – Stacking Pipe – Shap value
+<img width="833" height="828" alt="image" src="https://github.com/user-attachments/assets/92faad50-b8cb-47e6-8e3a-3d6b99fef5a8" />
+(배운 부분 위주로 하기위해 상위 6개로 다시 출력 후 진행)
+
 - PyCaret을 이용한 모델 비교 및 선정
 - Optuna를 활용한 하이퍼파라미터 최적화
 - Stacking Ensemble을 통한 성능 극대화
